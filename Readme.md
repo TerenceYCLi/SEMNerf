@@ -8,3 +8,6 @@ To activate the affine mode, add "affine": 1 into the 1st line of transforms.jso
 
 ### 2 in src/common.h 
 line 194, add Affine  into the enum class ELensmode
+
+### 3 in common_device.cuh
+line 437, add the direction of parallels lines
